@@ -6,7 +6,7 @@
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
-      "updateNvim": "git clone git@github.com:cameronrothenburg/nvim.git ~/.config/nvim"
+      "updatenvim": "git clone git@github.com:cameronrothenburg/nvim.git ~/.config/nvim"
     }
   }
 }
