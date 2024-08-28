@@ -3,7 +3,8 @@
   "packages": [
     "neovim@latest",
     "ripgrep@latest",
-    "nodejs@latest"
+    "nodejs@latest",
+    "git@latest":
   ],
   "shell": {
     "init_hook": [
