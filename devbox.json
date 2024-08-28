@@ -4,7 +4,7 @@
     "neovim@latest",
     "ripgrep@latest",
     "nodejs@latest",
-    "git@latest":
+    "git@latest"
   ],
   "shell": {
     "init_hook": [
